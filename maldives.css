@@ -1,0 +1,8 @@
+body{
+  background: url(https://cdn.pixabay.com/photo/2016/11/13/12/52/kuala-lumpur-1820944_1280.jpg);
+    background-position-x: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgb(143, 139, 122);
+    color: white;
+}
